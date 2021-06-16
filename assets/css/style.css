@@ -97,7 +97,6 @@ p {
 }
 /* Reduced redundant code in this section from 3 blocks per selector to 1 */
 
-
 /* Benefits sidebar */
 .aside-benefits {
     margin-right: 20px;
@@ -132,7 +131,6 @@ footer {
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-    
 }
 
 footer h2 {
