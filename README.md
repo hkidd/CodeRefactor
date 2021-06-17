@@ -5,9 +5,9 @@ Homework - UT Coding Boot Camp (Week 1)
 The client, a search engine optimization company, wants a codebase that follows accessibility standards so that their own website will be more recognized by search engines (ironic).
 
 ## Steps taken
-First, many of the basic html elements were replaced with semantic html elements.  Comments were also added to help distinguish the different sections of the website.
+Many of the basic html elements were replaced with semantic html elements.  Comments were also introduced to help distinguish the different sections of the website.  A website title was added to improve the company image.
 
-Next, the various classes used across the html elements were consolidated to reduce the need for multiple CSS selectors.  The reduction in CSS selectors along with CSS property consolidation vastly reduced the amount of code needed to display the same website before and after.
+The various classes used across the html elements were consolidated to reduce the need for multiple CSS selectors.  The reduction in CSS selectors along with CSS property consolidation vastly reduced the amount of code needed to display the same website before and after.
 
 ## Before example
 ```
@@ -105,6 +105,9 @@ Next, the various classes used across the html elements were consolidated to red
 /* Reduced redundant code in this section from 3 blocks per selector to 1 */
 
 ```
+
+## End result
+Less overall CSS code and more organized html code, while maintaining the original website design and function.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
